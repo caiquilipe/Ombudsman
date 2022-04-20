@@ -1,0 +1,2 @@
+class SystemDone(Exception):
+    pass
